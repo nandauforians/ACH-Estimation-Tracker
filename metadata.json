@@ -1,0 +1,5 @@
+{
+  "name": "EstiMate Pro",
+  "description": "A professional requirement estimation and resource allocation tool with currency conversion, CSV persistence, and AI-powered executive summaries.",
+  "requestFramePermissions": []
+}
